@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhib7353&label=Profile%20views&color=0e75b6&style=flat" alt="muhib7353" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhib7353&label=Profile%20views&color=0e75b6&style=flat" alt="mujeebarshad007" /> </p>
 <br>
 <h1 align="center">Meet Muhib</h1>
 
@@ -31,6 +31,4 @@ The only thing I know about myself is, I have no enemies.
 
 
   
-</p>
 
-[![An image of @muhib7353's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhib7353)](https://holopin.io/@muhib7353)
