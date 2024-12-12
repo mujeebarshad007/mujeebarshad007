@@ -16,6 +16,8 @@ The only thing I know about myself is, I have no enemies.
   
 
 </p>
+<h1 align="center">Watch This Snake Eating My Contributions</h1>
+
 
 ![snake gif](https://github.com/mujeebarshad007/mujeebarshad007/blob/output/github-snake-dark.svg)
 
