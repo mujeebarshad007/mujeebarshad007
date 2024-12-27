@@ -1,15 +1,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujeebarshad007&label=Profile%20views&color=0e75b6&style=flat" alt="mujeebarshad007" /> </p>
 
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif">
 
 <h1 align="center">Meet Mujeeb</h1>
 
 Welcome to Mujeeb's programming learning Journey. Mujeeb is trying to learn deep concepts like C++ and other lanuages .Mujeeb's goal is to become a passionate Computer Scientist. During his Learning journey he has wrote a lot of programs and done a lot of projects, which you can find on his [links Repository](https://github.com/mujeebarshad007?tab=repositories) profile. In his free time, he loves to edit stuff , which you can find at his profile. You can reach out to him at mujeeb.arshad001@gmail.com Check out his editing and writing blogging material at [instagram.com](https://www.instagram.com/niko__mp4/) and [Medium](https://medium.com/@mujeeb.arshad001), respectively.
 The only thing I know about myself is, I have no enemies.
 
-<p align="center">
-  <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" alt="image">
-</p>
-<h3 align="center">A passionate Computer Scientist from Pakistan</h3>
+
+
+ <img align="right" width="400px"  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+## 🧐 About Me
+I am a solutions-focused and goal-oriented Computer Scientist. Currently trying to learn C language. <br>Passionate about finding simple
+and efficient solutions to complex problems. Demonstrates strong analytical and problem-solving skills and the
+ability to follow through with projects from inception to completion.
+
+<br>
+<br>
+<br>
+
 
 
 <h3 align="left">Connect with me:</h3>
