@@ -43,9 +43,11 @@ ability to follow through with projects from inception to completion.
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujeebarshad007&show_icons=true&locale=en" alt="mujeebarshad007" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mujeebarshad007&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeebarshad007&amp;theme=tokyonight&amp;hide_border=false" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeebarshad007&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujeebarshad007&" alt="mujeebarshad007" /></p>
 
 
 
