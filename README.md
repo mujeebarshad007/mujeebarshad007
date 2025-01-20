@@ -29,6 +29,28 @@ ability to follow through with projects from inception to completion.
 </p>
 
 
+
+
+
+<div style="display: inline-block; margin-left: 40px;">
+    <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/after-effects.gif" alt="hello-gif" width="60">
+    <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/output-onlinegiftools%20(1).gif" width="50">
+        <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/github%20one.gif" width="50">
+                <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/vscode.gif" width="50">
+
+
+    
+ 
+</div>
+
+
+
+
+
+
+
+
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
     <!-- HTML -->
