@@ -9,9 +9,10 @@ The only thing I know about myself is, I have no enemies.
 
 
 
- <img align="right" width="400px"  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="adam-pw" />
 
 ## 🧐 About Me
+ <img align="right" width="400px"  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="adam-pw" />
+
 I am a solutions-focused and goal-oriented Computer Scientist. Currently trying to learn C language. <br>Passionate about finding simple
 and efficient solutions to complex problems. Demonstrates strong analytical and problem-solving skills and the
 ability to follow through with projects from inception to completion.
@@ -24,7 +25,14 @@ ability to follow through with projects from inception to completion.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.mujeebarshad001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.mujeebarshad001" height="30" width="40" /></a>
+<!-- Medium Logo -->
+<a href="https://medium.com/@mujeebarshad001" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mujeebarshad001" height="30" width="40" />
+</a>
+<!-- Dev.to Logo -->
+<a href="https://dev.to/dev.mujeebarshad001" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.mujeebarshad001" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/mujeebarshad001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
 </p>
 
