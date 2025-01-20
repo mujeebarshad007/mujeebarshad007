@@ -32,12 +32,7 @@ ability to follow through with projects from inception to completion.
 
 
 
-<div style="display: inline-block; margin-left: 40px;">
-    <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/after-effects.gif" alt="hello-gif" width="60">
-    <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/output-onlinegiftools%20(1).gif" width="50">
-        <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/github%20one.gif" width="50">
-                <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/vscode.gif" width="50">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+
 
 
     
@@ -62,16 +57,12 @@ ability to follow through with projects from inception to completion.
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p><h3 align="left">  Tools:</h3>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/> 
-    </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-    </a> 
-    <!-- Linux -->
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+<div style="display: inline-block; margin-left: 40px;">
+    <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/after-effects.gif" alt="hello-gif" width="60">
+    <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/output-onlinegiftools%20(1).gif" width="50">
+        <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/github%20one.gif" width="50">
+                <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/vscode.gif" width="50">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 
 
 
