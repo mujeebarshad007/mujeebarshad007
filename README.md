@@ -28,18 +28,33 @@ ability to follow through with projects from inception to completion.
 <a href="https://linkedin.com/in/mujeebarshad001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mujeebarshad001" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Languages:</h3>
+<p align="left"> 
+    <!-- HTML -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+    </a> 
+    <!-- CSS -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p><h3 align="left">  Tools:</h3>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-</a>
+
+
+
+
 <a href="https://github.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/> 
+    </a>
+
+
 
 
 
@@ -47,6 +62,7 @@ ability to follow through with projects from inception to completion.
 <img src="https://github-readme-stats.vercel.app/api?username=mujeebarshad007&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeebarshad007&amp;theme=tokyonight&amp;hide_border=false" alt="">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeebarshad007&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
+
 
 
 
