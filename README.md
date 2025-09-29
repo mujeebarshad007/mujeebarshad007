@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujeebarshad007&label=Profile%20views&color=0e75b6&style=flat" alt="mujeebarshad007" /> </p>
 
-<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif">
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <a href="https://app.daily.dev/mujeebarshad7"><img src="https://api.daily.dev/devcards/v2/EwK1X4sRuow14CFxnpQ5a.png?type=default&r=6le" width="200" alt="Mujeeb Arshad's Dev Card"/></a>
+
 
 <h1 align="center">Meet Mujeeb</h1>
 
@@ -74,7 +75,6 @@ ability to follow through with projects from inception to completion.
 <img src="https://github-readme-stats.vercel.app/api?username=mujeebarshad007&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeebarshad007&amp;theme=tokyonight&amp;hide_border=false" alt="">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeebarshad007&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
-<a href="https://app.daily.dev/mujeebarshad7"><img src="https://api.daily.dev/devcards/v2/EwK1X4sRuow14CFxnpQ5a.png?type=default&r=6le" width="356" alt="Mujeeb Arshad's Dev Card"/></a>
 
 
 
