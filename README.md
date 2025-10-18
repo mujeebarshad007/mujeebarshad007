@@ -87,13 +87,6 @@ ability to follow through with projects from inception to completion.
 
 ![snake gif](https://github.com/mujeebarshad007/mujeebarshad007/blob/output/github-snake-dark.svg)
 
-<p align="center">
-  <a href="https://app.daily.dev/mujeebarshad7">
-    <img src="https://api.daily.dev/devcards/v2/EwK1X4sRuow14CFxnpQ5a.png?type=wide&r=nck" width="652" alt="Mujeeb Arshad's Dev Card"/>
-  </a>
-</p>
-
-
 
 
 
