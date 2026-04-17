@@ -3,93 +3,72 @@
 <h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> 
 
 
-<h1 align="center">Meet Mujeeb</h1>
+<h1 align="center">Meet Mujeeb 👋</h1>
 
- I'm **Mujeeb** — a curious mind on a journey through the programming universe 🌌.
-
-💡 **Fun fact:** I **never wanted to be a coder**. Honestly, I **hated coding** at first 😅. But somehow, it found me… and now I **can’t get enough of it**.  
-
-Today, I’m diving deep into **C++** and other languages, striving to become a passionate **Computer Scientist** who builds **smart, creative, and efficient solutions**.  
-
-🚀 Along the way, I’ve written **countless programs** and completed **exciting projects** — check them out in my [Repositories](https://github.com/mujeebarshad007?tab=repositories).  
-
-🎨 When I’m not coding, I love **editing videos, creating content, and exploring my creative side**.  
-
-📬 Feel free to reach out: **mujeeb.arshad001@gmail.com**  
-🌐 Explore my creative work: [Instagram](https://www.instagram.com/niko__mp4/) | [Medium](https://medium.com/@mujeeb.arshad001)
-
-> "The only thing I know about myself is, I have no enemies." ✨
-
-
-
-
-
-## 🧐 Facts About Me
- <img align="right" width="400px"  src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
-I am a curious and creative Computer Scientist who loves **photography, videography, and cinematography** 🎥📸.  
-I enjoy **editing videos, capturing moments, and turning ideas into visuals**, while also exploring programming in **C and C++**.  
-Passionate about finding simple and efficient solutions to problems, I combine **technical skills with creativity** to bring projects to life.  
-In my free time, I also love **gaming** 🎮 and experimenting with new creative tools.  
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Medium Logo -->
-  <a href="https://medium.com/@mujeeb.arshad001" target="_blank" style="margin:0 5px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mujeeb.arshad001" height="30" width="40" />
-  </a>
-  
-  <!-- Dev.to Logo -->
-  <a href="https://dev.to/dev.mujeebarshad001" target="_blank" style="margin:0 5px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev&#95;mujeebarshad001" height="30" width="40" />
-  </a>
-  
-  <!-- LinkedIn Logo -->
-  <a href="https://linkedin.com/in/mujeebarshad001" target="_blank" style="margin:0 5px;">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" />
-  </a>
-  
-  <!-- Discord Logo -->
-  <a href="https://discord.gg/cMqhnGEdzw" target="_blank" style="margin:0 5px;">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="100" />
-  </a>
+<p align="center">
+  Computer Scientist · Creative Technologist · Builder
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/mujeebarshad001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@mujeeb.arshad001"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="https://dev.to/dev.mujeebarshad001"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" /></a>
+  <a href="https://discord.gg/cMqhnGEdzw"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/niko__mp4/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
 
+---
 
+## About Me
 
+I'm a curious and creative **Computer Scientist** who started out hating code — and somehow ended up unable to stop writing it.
 
+Today I focus on building **smart, efficient, and well-crafted solutions**, blending technical depth with a strong creative instinct. Outside of programming, I work in **photography, videography, and cinematography**, and I spend time on video editing and content creation.
 
+📬 **mujeeb.arshad001@gmail.com**
 
+---
 
+## Tech Stack
 
+**Languages**
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+**Cloud & Infrastructure**
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
+**Data & AI**
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![AI Agenting](https://img.shields.io/badge/AI_Agenting-412991?style=flat&logo=anthropic&logoColor=white)
 
+**Tools & Workflow**
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
- <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="70">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="70">
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
+**Creative**
 
-</a>
-    </p>
-     <h3 align="left">  Tools:</h3>
-<div style="display: inline-block; margin-left: 40px;">
-    <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/after-effects.gif" alt="hello-gif" width="60">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="50">
-        <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/github%20one.gif" width="50">
-                <img src="https://github.com/mujeebarshad007/Learn_With_Me/blob/main/gifs/vscode.gif" width="50">
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-0866FF?style=flat&logo=meta&logoColor=white)
 
-
+---
 
 
 <h2 align="center">📊 My GitHub Progress</h2>
