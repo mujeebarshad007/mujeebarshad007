@@ -25,6 +25,10 @@ I'm a curious and creative **Computer Scientist** who started out hating code â€
 
 Today I focus on building **smart, efficient, and well-crafted solutions**, blending technical depth with a strong creative instinct. Outside of programming, I work in **photography, videography, and cinematography**, and I spend time on video editing and content creation.
 
+
+MY fifa vard is also here 
+https://gitfut.com/mujeebarshad007
+
 ðŸ“¬ **mujeeb.arshad001@gmail.com**
 
 ---
