@@ -1,9 +1,18 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujeebarshad007&label=Profile%20views&color=0e75b6&style=flat" alt="mujeebarshad007" /> </p>
-
-<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> 
-
-
 <h1 align="center">Meet Mujeeb 👋</h1>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mujeebarshad007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
+
+<!-- Borderless table to perfectly lock the SVGs together and fix side gaps -->
+<div align="center">
+  <table style="border: none; border-collapse: collapse; padding: 0; margin: 0; background-color: transparent;">
+    <tr style="border: none;">
+      <td valign="top" style="border: none; padding: 0; margin: 0;"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+      <td valign="top" style="border: none; padding: 0; margin: 0;"><img src="./info-card.svg" width="490" alt="About Me Info" /></td>
+    </tr>
+  </table>
+</div>
+
 
 <p align="center">
   Computer Scientist · Creative Technologist · Builder
@@ -18,13 +27,6 @@
 </p>
 
 ---
-
-## About Me
-
-I'm a curious and creative **Computer Scientist** who started out hating code — and somehow ended up unable to stop writing it.
-
-Today I focus on building **smart, efficient, and well-crafted solutions**, blending technical depth with a strong creative instinct. Outside of programming, I work in **photography, videography, and cinematography**, and I spend time on video editing and content creation.
-
 
 Check out my FIFA Card
 https://gitfut.com/mujeebarshad007
@@ -91,26 +93,22 @@ https://gitfut.com/mujeebarshad007
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=mujeebarshad007&theme=radical&hide_border=false&background=0,0,0,0" width="60%" />
 </p>
-<h1 align="center">Watch This Snake Eating My Contributions</h1>
+<h2 align="center">🔥 My Contributions</h2>
 
+<!-- Custom Heatmap Moved UP -->
 <p align="center">
-  <!-- GitHub Snake Animation -->
-  <img src="https://github.com/mujeebarshad007/mujeebarshad007/blob/output/github-snake-dark.svg" width="80%" />
-</p>
-
-<p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mujeebarshad007&theme=radical&no-frame=false&no-bg=false&margin-w=15" width="70%" />
+  <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 </p>
 
 
-[![An image of @mujeebarshad007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mujeebarshad007)](https://holopin.io/@mujeebarshad007)
 
+<h2 align="center">🔥 Super Contributor Badges</h2>
 
-
-
-
-
+<p align="center">
+  <a href="https://holopin.io/@mujeebarshad007">
+    <img src="https://holopin.me/mujeebarshad007" alt="Holopin badges" />
+  </a>
+</p>
 
 
 
