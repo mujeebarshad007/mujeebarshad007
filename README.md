@@ -1,3 +1,4 @@
+
 <h1 align="center">Meet Mujeeb 👋</h1>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mujeebarshad007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -12,6 +13,7 @@
     </tr>
   </table>
 </div>
+
 
 
 <p align="center">
@@ -77,22 +79,24 @@ https://gitfut.com/mujeebarshad007
 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Scientist;Creative+Technologist;Building+AI+Agents;Always+Learning..." />
+</p>
 
 <h2 align="center">📊 My GitHub Progress</h2>
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeebarshad007&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="45%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeebarshad007&layout=compact&theme=radical" width="45%" />
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mujeebarshad007&show_icons=true&theme=tokyonight" height="180"/>
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mujeebarshad007&layout=compact&theme=tokyonight" height="180"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=mujeebarshad007&theme=radical&hide_border=false&background=0,0,0,0" width="60%" />
-</p>
-<h2 align="center">🔥 My Contributions</h2>
+
 
 <!-- Custom Heatmap Moved UP -->
 <p align="center">
