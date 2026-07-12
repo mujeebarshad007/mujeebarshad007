@@ -99,9 +99,6 @@ https://gitfut.com/mujeebarshad007
 
 
 <!-- Custom Heatmap Moved UP -->
-<p align="center">
-  <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
-</p>
 
 
 
