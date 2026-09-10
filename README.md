@@ -101,20 +101,9 @@ https://gitfut.com/mujeebarshad007
 </p>
 
 <h2 align="center">📊 My GitHub Progress</h2>
-
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mujeebarshad007&show_icons=true&theme=tokyonight" height="180"/>
-</td>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mujeebarshad007&layout=compact&theme=tokyonight" height="180"/>
-</td>
-</tr>
-</table>
-
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mujeebarshad007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 <!-- Custom Heatmap Moved UP -->
 
 
