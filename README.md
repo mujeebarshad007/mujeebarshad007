@@ -3,10 +3,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mujeebarshad007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<p align="center">
+<div align="center">
   <a href="https://github.com/mujeebarshad007"><img src="avi-ascii.svg" width="370" alt="ASCII portrait" /></a>
   <a href="https://github.com/mujeebarshad007"><img src="info-card.svg" width="490" alt="About Me Info" /></a>
-</p>
+</div>
+
+
 <p align="center">
   Computer Scientist · Creative Technologist · Builder
 </p>
