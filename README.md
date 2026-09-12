@@ -1,20 +1,16 @@
-
 <h1 align="center">Meet Mujeeb 👋</h1>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mujeebarshad007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mujeebarshad007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Borderless table to perfectly lock the SVGs together and fix side gaps -->
-<div align="center">
-  <table style="border: none; border-collapse: collapse; padding: 0; margin: 0; background-color: transparent;">
-    <tr style="border: none;">
-      <td valign="top" style="border: none; padding: 0; margin: 0;"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-      <td valign="top" style="border: none; padding: 0; margin: 0;"><img src="./info-card.svg" width="490" alt="About Me Info" /></td>
-    </tr>
-  </table>
-</div>
-
-
+<p align="center">
+  <a href="https://github.com/mujeebarshad007">
+    <img src="https://raw.githubusercontent.com/mujeebarshad007/mujeebarshad007/main/avi-ascii.svg?v=1" width="370" alt="ASCII portrait" />
+  </a>
+  <a href="https://github.com/mujeebarshad007">
+    <img src="https://raw.githubusercontent.com/mujeebarshad007/mujeebarshad007/main/info-card.svg?v=1" width="490" alt="About Me Info" />
+  </a>
+</p>
 
 <p align="center">
   Computer Scientist · Creative Technologist · Builder
@@ -26,7 +22,6 @@
   <a href="https://discord.gg/cMqhnGEdzw"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
   <a href="https://www.instagram.com/niko__mp4/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
-
 ---
 
 Check out my FIFA Card
@@ -73,7 +68,6 @@ https://gitfut.com/mujeebarshad007
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
@@ -94,6 +88,7 @@ https://gitfut.com/mujeebarshad007
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
 ![Topaz Video AI](https://img.shields.io/badge/Topaz_Video_AI-4A90E2?style=flat&logoColor=white)
+
 ---
 
 <p align="center">
@@ -104,9 +99,6 @@ https://gitfut.com/mujeebarshad007
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mujeebarshad007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<!-- Custom Heatmap Moved UP -->
-
-
 
 <h2 align="center">🔥 Super Contributor Badges</h2>
 
@@ -115,9 +107,3 @@ https://gitfut.com/mujeebarshad007
     <img src="https://holopin.me/mujeebarshad007" alt="Holopin badges" />
   </a>
 </p>
-
-
-
-
-  
-
