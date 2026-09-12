@@ -1,17 +1,12 @@
 <h1 align="center">Meet Mujeeb 👋</h1>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mujeebarshad007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/mujeebarshad007">
-    <img src="https://raw.githubusercontent.com/mujeebarshad007/mujeebarshad007/main/avi-ascii.svg?v=1" width="370" alt="ASCII portrait" />
-  </a>
-  <a href="https://github.com/mujeebarshad007">
-    <img src="https://raw.githubusercontent.com/mujeebarshad007/mujeebarshad007/main/info-card.svg?v=1" width="490" alt="About Me Info" />
-  </a>
+  <a href="https://github.com/mujeebarshad007"><img src="avi-ascii.svg" width="370" alt="ASCII portrait" /></a>
+  <a href="https://github.com/mujeebarshad007"><img src="info-card.svg" width="490" alt="About Me Info" /></a>
 </p>
-
 <p align="center">
   Computer Scientist · Creative Technologist · Builder
 </p>
@@ -22,6 +17,7 @@
   <a href="https://discord.gg/cMqhnGEdzw"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
   <a href="https://www.instagram.com/niko__mp4/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
+
 ---
 
 Check out my FIFA Card
