@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=mujeebarshad007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <a href="https://github.com/mujeebarshad007"><img src="avi-ascii.svg" width="370" alt="ASCII portrait" /></a>
+  <!-- <a href="https://github.com/mujeebarshad007"><img src="avi-ascii.svg" width="370" alt="ASCII portrait" /></a> -->
   <a href="https://github.com/mujeebarshad007"><img src="info-card.svg" width="490" alt="About Me Info" /></a>
 </div>
 
